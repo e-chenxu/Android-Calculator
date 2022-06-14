@@ -1,5 +1,4 @@
 // Eric Chen
-// ID: 89351145
 
 package com.example.mycalculator;
 import java.text.DecimalFormat;
