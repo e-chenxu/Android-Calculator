@@ -1,6 +1,7 @@
-# MyCalculator
-Android Calculator App
+# Android Calculator App
 
-Literally just an Android calculator app that mimics the iPhone calculator app.
+An Android calculator app that mimics the iPhone calculator app.
 
-- Eric Chen
+# How to Install
+
+Download the apk from releases and install it on an android by opening the file and using the android's package installer.
