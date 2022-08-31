@@ -2,6 +2,8 @@
 
 An Android calculator app that mimics the iPhone calculator app.
 
+(The code files are in /app/src/main/java/com/example/mycalculator/)
+
 <img src="images/main.PNG" width="200">
 
 # How to Install
