@@ -5,9 +5,10 @@ An Android calculator app that accurately mimics the iPhone calculator app.
 (The code files are in /app/src/main/java/com/example/mycalculator/)
 
 <br>
-<img src="images/androidcalc.gif" height="500" style="margin-right: 40px">
-
-<img src="images/iphonecalc.gif" height="400">
+<p float="left">
+  <img src="images/androidcalc.gif" height="500" margin-right:"400">
+  <img src="images/iphonecalc.gif" height="400">
+</p>
 
 
 # How to Install
